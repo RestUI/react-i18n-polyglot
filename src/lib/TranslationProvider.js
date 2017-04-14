@@ -1,7 +1,7 @@
 import { Children } from 'react';
 import PropTypes from 'prop-types';
 import Polyglot from 'node-polyglot';
-import { withContext } from 'recompose';
+import withContext from 'recompose/withContext';
 
 const contextTypes = {
     translate: PropTypes.func.isRequired,

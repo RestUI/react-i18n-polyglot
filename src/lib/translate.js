@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { getContext } from 'recompose';
+import getContext from 'recompose/getContext';
 
 const contextTypes = {
     translate: PropTypes.func.isRequired,
