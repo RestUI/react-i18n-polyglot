@@ -1,3 +1,5 @@
+# API Docs
+
 ## Usage
 
 You have to import the TranslationProvider provided by the package. 
