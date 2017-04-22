@@ -9,7 +9,13 @@ const contextTypes = {
 };
 
 const getContextTypes = ({ locale, messages = {} }) => {
-    const userMessages = messages[locale] || {};
+    const userMessages = messages[locale];
+
+    if (!userMessages) {
+        throw `You have no messages for locale: ${locale}. 
+        Please, specify another locale, or add messages for it.`;
+    }
+
     const polyglot = new Polyglot({
         locale,
         phrases: userMessages

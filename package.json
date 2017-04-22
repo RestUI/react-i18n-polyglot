@@ -1,6 +1,6 @@
 {
   "name": "react-i18n-polyglot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ":book: Set of React components to provide translation capabilities with the help of Polyglot",
   "main": "dist/index.js",
   "scripts": {
