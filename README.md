@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/react-i18n-polyglot.svg)](https://badge.fury.io/js/react-i18n-polyglot) [![npm downloads](https://img.shields.io/npm/dm/react-i18n-polyglot.svg)](https://www.npmjs.com/package/react-i18n-polyglot)  [![Build Status](https://travis-ci.org/RestUI/react-i18n-polyglot.svg?branch=master)](https://travis-ci.org/RestUI/react-i18n-polyglot) [![codecov](https://codecov.io/gh/RestUI/react-i18n-polyglot/branch/master/graph/badge.svg)](https://codecov.io/gh/RestUI/react-i18n-polyglot) [![Coverage Status](https://coveralls.io/repos/github/RestUI/react-i18n-polyglot/badge.svg)](https://coveralls.io/github/RestUI/react-i18n-polyglot?branch=master)
 
-[![NPM](https://nodei.co/npm/react-i18n-polyglot.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-i18n-polyglot/) [![NPM](https://nodei.co/npm-dl/react-i18n-polyglot.png?months=9&height=3)](https://nodei.co/npm/react-i18n-polyglot/) 
+[![NPM](https://nodei.co/npm/react-i18n-polyglot.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-i18n-polyglot/) [![NPM](https://nodei.co/npm-dl/react-i18n-polyglot.png?months=9&height=2)](https://nodei.co/npm/react-i18n-polyglot/) 
 
 ## Installation
 
